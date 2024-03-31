@@ -53,6 +53,14 @@ If you have multiple aliases using this script, it may be wise to use environmen
 * 0.1
   * Initial Release
 
+## Contributing
+
+This is an extremely single-purpose bash script, but if you have any ideas for improving it, or if some use case does not work for you, please open an issue!
+
+### Future
+
+Something I am considering doing is creating a CLI interface (using something like Gum) for this that would report the progress, show queue states and so on. Another script I have ready is for saving RabbitMQ messages to disk, which will be released in another repository.
+
 ## License
 
 This project is licensed under the MIT license. But if you for any reason use this, please do let me know, I'd love to know!
